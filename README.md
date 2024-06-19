@@ -1,7 +1,6 @@
 # springboot-aws-deploy
 
-This is a sample microservice to deploy it on AWS ECS.m
-
+This is a sample microservice to deploy it on AWS ECS.mdr
 To build automated AWS CodePipeline and deploy microservice to AWS ECS, follow tutorial as shown in video :
 
 Video Link :https://youtu.be/ARGmrYFfv44
